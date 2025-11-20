@@ -1,1 +1,2 @@
 Habia una vez un programador que aprendió Git.
+Pero un día descubrió el comando git pull
